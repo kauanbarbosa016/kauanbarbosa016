@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Me chamo Kauan Barbosa 
+Sou estudante do alura da escola Laura de Melo 
+Tenho 16 anos
 <!--
 **kauanbarbosa016/kauanbarbosa016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
